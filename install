@@ -1,0 +1,2 @@
+#!/bin/bash
+pip install PyQt5 psutil
